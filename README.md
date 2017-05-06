@@ -222,7 +222,7 @@
     
     브라우저를 통해 `http://[공인IP]:[PORT]`로 접근하시면 app.js에서 브라우저로 보냈던 'Hello NAVER Cloud Platform!!' 라는 문구를 확인하실 수 있습니다.
     
-    저는 3000번 포트를 Listen하도록 해 두었고, ACG에도 3000과 22번 포트만 오픈해 두었으니 포트에는 3000 포트를 입력해야 접속하실 수 있습니다.
+    저는 3000번 포트를 Listen하도록 해 두었고, ACG에도 3000과 22번 포트만 오픈해 두었으니 포트에는 3000 포트를 입력해야 접속할 수 있습니다.
 
 <p align="center">
     <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/16.PNG?raw=true">
