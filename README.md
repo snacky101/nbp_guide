@@ -49,9 +49,47 @@
 
 - 서버 생성 완료
 
-    진행이 완료되면 위 이미지처럼 생성된 서버를 확인할 수 있습니다.
+    진행이 완료되면 아래 이미지처럼 생성된 서버를 확인할 수 있습니다.
 
 <p align="center">
     <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/05.PNG?raw=true">
+</p>
+<br></br>
+
+## 02. Public IP 할당
+
+- 공인 IP 탭 선택
+
+    서버 생성 후 해당 서버에 접근하기 위해서는 공인 IP가 필요합니다. 좌측에서 Public IP 탭을 찾아 선택합니다.
+
+<p align="center">
+    <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/06.PNG?raw=true">
+</p>
+<br></br>
+
+- 서버 선택 후 서버에 할당 버튼 클릭
+
+    Public IP 탭을 선택하면 이전 생성했던 서버가 리스트에 출력되고 이를 선택하면 체크박스가 체크됩니다. 이 상태에서 서버에 할당 버튼을 누릅니다.
+
+<p align="center">
+    <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/07.PNG?raw=true">
+</p>
+<br></br>
+
+- 할당
+
+    추가한 서버의 이름을 선택하고 할당 버튼을 누르면 공인 IP가 할당됩니다.
+
+<p align="center">
+    <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/07.PNG?raw=true">
+</p>
+<br></br>
+
+- 할당 완료
+
+    이미지 상에는 지워져 있으나, 적용서버 부분에 서버의 이름이 표시되고, 여기의 공인 IP를 통해 외부에서 접근이 가능하도록 공인 IP 할당이 완료됩니다.
+
+<p align="center">
+    <img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/07.PNG?raw=true">
 </p>
 <br></br>
