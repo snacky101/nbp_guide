@@ -212,7 +212,7 @@
         app.listen(3000, function(){
             console.log('Connected!!');
         });
-        // 작성 완료 후 ESC키를 누르고 :wq를 눌러 파일을 저장하고 vim을 빠져나옵니다.
+        // 작성 완료 후 ESC키를 누르고 :wq 그리고 엔터 키를 눌러 파일을 저장하고 vim을 빠져나옵니다.
 
 - 이제 NodeJS를 통해 작성한 app.js 파일을 실행시킵니다.
 
