@@ -12,7 +12,7 @@
 
 - [Naver Cloud Platform](https://www.ncloud.com/) 링크로 들어가시면 우측 상단에 Console 버튼이 있습니다. 이를 클릭하여 다음 페이지로 접근합니다.
 
-![서버탭](https://github.com/cliche90/nbp_guide/blob/master/images/02.PNGpng?raw=true)
+![서버탭](https://github.com/cliche90/nbp_guide/blob/master/images/02.PNG?raw=true)
 
 - 좌측에 Server 탭 - Server를 선택합니다.(기본값으로 지정되어 있음)
 
