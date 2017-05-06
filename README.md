@@ -13,8 +13,9 @@
 - Console 버튼 클릭
 
     [Naver Cloud Platform](https://www.ncloud.com/) 링크로 들어가시면 우측 상단에 Console 버튼이 있습니다. 이를 클릭하여 다음 페이지로 접근합니다.
-
-<img style="margin-left:auto; margin-right:auto; display:block;" src="https://github.com/cliche90/nbp_guide/blob/master/images/01.PNG?raw=true">
+<p style="text-align:center">
+<img src="https://github.com/cliche90/nbp_guide/blob/master/images/01.PNG?raw=true">
+</p>
 <br></br>
 
 - Server 메뉴 선택
