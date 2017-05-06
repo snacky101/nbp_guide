@@ -14,7 +14,7 @@
 
     [Naver Cloud Platform](https://www.ncloud.com/) 링크로 들어가시면 우측 상단에 Console 버튼이 있습니다. 이를 클릭하여 다음 페이지로 접근합니다.
 
-    <p style="text-align:center">
+    <p style="margin-left:auto; margin-right:auto; display:block">
         <img src="https://github.com/cliche90/nbp_guide/blob/master/images/01.PNG?raw=true" >
     </p>
 <br></br>
@@ -23,7 +23,7 @@
 
     좌측에 Server 탭 - Server를 선택합니다.(기본값으로 지정되어 있음)
 
-    <p style="text-align:center">
+    <p style="margin-left:auto; margin-right:auto; display:block">
         <img src="https://github.com/cliche90/nbp_guide/blob/master/images/02.PNG?raw=true" >
     </p>
 <br></br>
@@ -32,7 +32,7 @@
 
     해당 탭에서 서버생성 버튼을 눌러 서버 생성 과정을 진행합니다.
 
-    <p style="text-align:center">
+    <p style="margin-left:auto; margin-right:auto; display:block">
         <img src="https://github.com/cliche90/nbp_guide/blob/master/images/03.PNG?raw=true" >
     </p>
 <br></br>
@@ -43,7 +43,7 @@
     2. 서버이름은 임의로 설정하시면 됩니다.
     3. acg의 경우 추후 수정할 것이지만 우선 기본값으로 설정하고 진행합니다.
 
-    <p style="text-align:center">
+    <p style="margin-left:auto; margin-right:auto; display:block">
         <img src="https://github.com/cliche90/nbp_guide/blob/master/images/04.PNG?raw=true" >
     </p>
 <br></br>
@@ -52,7 +52,7 @@
 
     진행이 완료되면 위 이미지처럼 생성된 서버를 확인할 수 있습니다.
 
-    <p style="text-align:center">
+    <p style="margin-left:auto; margin-right:auto; display:block">
         <img src="https://github.com/cliche90/nbp_guide/blob/master/images/05.PNG?raw=true" >
     </p>
 <br></br>
