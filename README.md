@@ -1,5 +1,7 @@
 # NAVER Cloud Platform with NodeJS
 
+> This document is deprecated. naver cloud platform provide more great document.
+
 - [Naver Cloud Platform](https://www.ncloud.com/)
 
     > Naver Cloud Platform - 이하 nbp - 는 가상의 클라우드 웹서버를 제공하는 서비스입니다.
