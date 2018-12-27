@@ -1,6 +1,6 @@
 # NAVER Cloud Platform with NodeJS
 
-> This document is deprecated. naver cloud platform provide more great document.
+> This document is outdated. NAVER CLOUD PLATFORM provide more great documents.
 
 - [Naver Cloud Platform](https://www.ncloud.com/)
 
