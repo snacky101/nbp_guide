@@ -1,6 +1,6 @@
 # NAVER Cloud Platform with NodeJS
 
-> This document is outdated. NAVER CLOUD PLATFORM provide more great documents.
+> 이 문서는 NAVER Cloud Platform 초기에 작성된 문서로 현재와는 다소 맞지 않을 수 있습니다. 공식 페이지에서 훨씬 더 멋진 가이드를 제공하고 있으니 해당 부분을 참조하시는 것을 추천드립니다.
 
 - [Naver Cloud Platform](https://www.ncloud.com/)
 
